@@ -9,7 +9,7 @@ struct Ships* ships2=NULL;
 
 //This file includes main funtion and functions that are related to main.
 
-
+ 
 // Checks if game winner is found or not
 bool game_on(struct Ships* laivat,int pelaaja){
     int sinked =0;
